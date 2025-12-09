@@ -1,0 +1,120 @@
+1765275595: mosquitto version 2.0.22 starting
+1765275595: Config loaded from /mosquitto/config/mosquitto.conf.
+1765275595: Opening ipv4 listen socket on port 1883.
+1765275595: Opening ipv6 listen socket on port 1883.
+1765275595: mosquitto version 2.0.22 running
+1765275611: mosquitto version 2.0.22 terminating
+1765275616: mosquitto version 2.0.22 starting
+1765275616: Config loaded from /mosquitto/config/mosquitto.conf.
+1765275616: Opening ipv4 listen socket on port 1883.
+1765275616: Opening ipv6 listen socket on port 1883.
+1765275616: mosquitto version 2.0.22 running
+1765276324: New connection from 172.19.0.1:59108 on port 1883.
+1765276324: Client <unknown> closed its connection.
+1765276324: New connection from 172.19.0.1:59114 on port 1883.
+1765276324: Client <unknown> disconnected due to protocol error.
+1765276358: New connection from 172.19.0.1:48328 on port 1883.
+1765276358: New connection from 172.19.0.1:48342 on port 1883.
+1765276358: Client <unknown> closed its connection.
+1765276358: Client <unknown> disconnected due to protocol error.
+1765276393: New connection from 172.19.0.1:46834 on port 1883.
+1765276393: New connection from 172.19.0.1:46840 on port 1883.
+1765276393: Client <unknown> closed its connection.
+1765276393: Client <unknown> disconnected due to protocol error.
+1765276411: New connection from 172.19.0.1:33518 on port 1883.
+1765276412: New client connected from 172.19.0.1:33518 as postman-mqtt-client-1765276411966 (p5, c1, k60).
+1765276412: No will message specified.
+1765276412: Sending CONNACK to postman-mqtt-client-1765276411966 (0, 0)
+1765276438: Received SUBSCRIBE from postman-mqtt-client-1765276411966
+1765276438: 	TopicControle (QoS 0)
+1765276438: postman-mqtt-client-1765276411966 0 TopicControle
+1765276438: Sending SUBACK to postman-mqtt-client-1765276411966
+1765276461: Client postman-mqtt-client-1765276411966 closed its connection.
+1765276466: New connection from 172.19.0.1:36586 on port 1883.
+1765276466: New client connected from 172.19.0.1:36586 as postman-mqtt-client-1765276411966 (p5, c1, k60).
+1765276466: No will message specified.
+1765276466: Sending CONNACK to postman-mqtt-client-1765276411966 (0, 0)
+1765276466: Received SUBSCRIBE from postman-mqtt-client-1765276411966
+1765276466: 	TopicControle (QoS 0)
+1765276466: postman-mqtt-client-1765276411966 0 TopicControle
+1765276466: Sending SUBACK to postman-mqtt-client-1765276411966
+1765276469: Client postman-mqtt-client-1765276411966 closed its connection.
+1765276483: New connection from 172.19.0.1:59394 on port 1883.
+1765276483: New client connected from 172.19.0.1:59394 as postman-mqtt-client-1765276411966 (p5, c1, k60).
+1765276483: No will message specified.
+1765276483: Sending CONNACK to postman-mqtt-client-1765276411966 (0, 0)
+1765276483: Received SUBSCRIBE from postman-mqtt-client-1765276411966
+1765276483: 	TopicControle (QoS 0)
+1765276483: postman-mqtt-client-1765276411966 0 TopicControle
+1765276483: Sending SUBACK to postman-mqtt-client-1765276411966
+1765276486: Client postman-mqtt-client-1765276411966 closed its connection.
+1765276520: New connection from 172.19.0.1:48400 on port 1883.
+1765276520: New client connected from 172.19.0.1:48400 as postman-mqtt-client-1765276411966 (p5, c1, k60).
+1765276520: No will message specified.
+1765276520: Sending CONNACK to postman-mqtt-client-1765276411966 (0, 0)
+1765276520: Received SUBSCRIBE from postman-mqtt-client-1765276411966
+1765276520: 	TopicControle (QoS 0)
+1765276520: postman-mqtt-client-1765276411966 0 TopicControle
+1765276520: Sending SUBACK to postman-mqtt-client-1765276411966
+1765276544: Client postman-mqtt-client-1765276411966 closed its connection.
+1765276596: New connection from 172.19.0.1:33398 on port 1883.
+1765276596: Client <unknown> closed its connection.
+1765276596: New connection from 172.19.0.1:33408 on port 1883.
+1765276596: Client <unknown> disconnected due to protocol error.
+1765276600: New connection from 172.19.0.1:54228 on port 1883.
+1765276600: New client connected from 172.19.0.1:54228 as postman-mqtt-client-1765276600431 (p5, c1, k60).
+1765276600: No will message specified.
+1765276600: Sending CONNACK to postman-mqtt-client-1765276600431 (0, 0)
+1765276600: Received SUBSCRIBE from postman-mqtt-client-1765276600431
+1765276600: 	TopicControle (QoS 0)
+1765276600: postman-mqtt-client-1765276600431 0 TopicControle
+1765276600: Sending SUBACK to postman-mqtt-client-1765276600431
+1765276602: Client postman-mqtt-client-1765276600431 closed its connection.
+1765276603: New connection from 172.19.0.1:54230 on port 1883.
+1765276603: New connection from 172.19.0.1:54232 on port 1883.
+1765276603: Client <unknown> closed its connection.
+1765276603: Client <unknown> disconnected due to protocol error.
+1765276615: New connection from 172.19.0.1:37250 on port 1883.
+1765276615: New client connected from 172.19.0.1:37250 as postman-mqtt-client-1765276615326 (p5, c1, k60).
+1765276615: No will message specified.
+1765276615: Sending CONNACK to postman-mqtt-client-1765276615326 (0, 0)
+1765276619: Received SUBSCRIBE from postman-mqtt-client-1765276615326
+1765276619: 	TopicControle (QoS 0)
+1765276619: postman-mqtt-client-1765276615326 0 TopicControle
+1765276619: Sending SUBACK to postman-mqtt-client-1765276615326
+1765276620: Received UNSUBSCRIBE from postman-mqtt-client-1765276615326
+1765276620: 	TopicControle
+1765276620: postman-mqtt-client-1765276615326 TopicControle
+1765276620: Sending UNSUBACK to postman-mqtt-client-1765276615326
+1765276626: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (0 bytes))
+1765276675: New connection from 172.19.0.1:36528 on port 1883.
+1765276675: Client <unknown> closed its connection.
+1765276675: New connection from 172.19.0.1:36530 on port 1883.
+1765276675: Client <unknown> disconnected due to protocol error.
+1765276686: Received PINGREQ from postman-mqtt-client-1765276615326
+1765276686: Sending PINGRESP to postman-mqtt-client-1765276615326
+1765276696: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276705: Received SUBSCRIBE from postman-mqtt-client-1765276615326
+1765276705: 	TopicControle (QoS 0)
+1765276705: postman-mqtt-client-1765276615326 0 TopicControle
+1765276705: Sending SUBACK to postman-mqtt-client-1765276615326
+1765276709: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276709: Sending PUBLISH to postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276714: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276714: Sending PUBLISH to postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276755: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276755: Sending PUBLISH to postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276757: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276757: Sending PUBLISH to postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276758: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276758: Sending PUBLISH to postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276763: Received PUBLISH from postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (5 bytes))
+1765276763: Sending PUBLISH to postman-mqtt-client-1765276615326 (d0, q0, r0, m0, 'TopicControle', ... (5 bytes))
+1765276823: Received PINGREQ from postman-mqtt-client-1765276615326
+1765276823: Sending PINGRESP to postman-mqtt-client-1765276615326
+1765276883: Received PINGREQ from postman-mqtt-client-1765276615326
+1765276883: Sending PINGRESP to postman-mqtt-client-1765276615326
+1765276943: Received PINGREQ from postman-mqtt-client-1765276615326
+1765276943: Sending PINGRESP to postman-mqtt-client-1765276615326
+1765277003: Received PINGREQ from postman-mqtt-client-1765276615326
+1765277003: Sending PINGRESP to postman-mqtt-client-1765276615326
